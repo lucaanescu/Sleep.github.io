@@ -17,7 +17,6 @@ navbar-links:
   # About Me:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: 
 # --- Logo --- #
 
@@ -61,7 +60,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: This website is a Resource database for some of the data sets I've worked on
 
 # --- General options --- #
 
