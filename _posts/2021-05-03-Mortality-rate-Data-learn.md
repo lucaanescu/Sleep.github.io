@@ -62,3 +62,18 @@ the first is the train plot to train the data set to recognize patterns before t
 
 the Test is the next one to test the data set for the life expectancy after the year of 2012.
 ![bocplot2](https://user-images.githubusercontent.com/48320567/123539914-22e4d900-d70a-11eb-822f-e05e72454009.PNG)
+
+Testing now the new baseline accuracy
+model = [y_test.mean()] * len(y_test)
+baseline_acc2 = mean_absolute_error(y_test, model)
+baseline_acc2 = 9.05
+
+By the marginal increase, there is a clear increase in the base accuracy.
+This means that there is an increase in the values over the years, with later years having an effect on the lives of others. 
+The issue is tht the value isnt high enough to be significant, only increasing by 1 where it would need to be around 5 or so to have any significance.
+
+---
+In conclusion
+---
+
+There simply isnt enough of an increase in a simple descision tree pipeline to prove any increase in life expectency in later years.
