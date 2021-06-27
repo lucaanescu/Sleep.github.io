@@ -77,3 +77,4 @@ In conclusion
 ---
 
 There simply isnt enough of an increase in a simple descision tree pipeline to prove any increase in life expectency in later years.
+Perhaps if there were any inductions of hyper-parameters or if the model was catered to be bagged, it could have increased the baseline accuracy.
