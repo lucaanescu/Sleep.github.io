@@ -70,6 +70,7 @@ the Test is the next one to test the data set for the average cumulative life ex
 Testing now the new baseline accuracy
 ***model = [y_test.mean()] * len(y_test)***
 ***baseline_acc2 = mean_absolute_error(y_test, model)***
+
 ***baseline_acc2 = 9.05***
 
 By the marginal increase, there is a clear increase in the base accuracy.
