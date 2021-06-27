@@ -13,3 +13,6 @@ The main objective was to see as well if there was any correlation between the l
 that and if life expectancy or increased average lifepsans will increase more in later years.
 
 Some of the first things done was to clear the data of any NaN values and other values that werent important / numeric. The data equivalated to something along these lines:
+
+![sleep data dataframe](https://user-images.githubusercontent.com/48320567/123538576-aa7b1980-d703-11eb-9980-059a53b56521.PNG)
+![newdata](https://user-images.githubusercontent.com/48320567/123538579-aea73700-d703-11eb-9a3a-daa9a84ad14d.PNG)
