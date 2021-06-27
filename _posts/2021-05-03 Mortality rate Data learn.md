@@ -14,4 +14,5 @@ that and if life expectancy or increased average lifepsans will increase more in
 
 --
 Some of the first things done was to clear the data of any NaN values and other values that werent important / numeric. The data equivalated to something along these lines:
+--
 
